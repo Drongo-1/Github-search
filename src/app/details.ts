@@ -6,7 +6,6 @@ export class Details {
     public repo_url:any,
     public bio:any,
     public created_at:Date){
-
     }
 
 }
