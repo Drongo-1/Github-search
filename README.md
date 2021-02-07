@@ -1,27 +1,30 @@
+# Name
+David Ngugi Kuria
 # GithubSearch
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+This is my second angular project
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Description
+A single page application for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.The website is made using angular js framework, and uses components, custom directives, custom pipes, routing modules and classes to make the finished product.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
+HTML-
 
-## Build
+BOOTSTRAP-To style
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Angular js-Used for backend
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Known Bugs
 
-## Running end-to-end tests
+No known bugs so far
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## License
+
+Copyright (c) Permission is hereby granted, free of charge, to any person obtaining a copy of this code
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+contact me for for further help
