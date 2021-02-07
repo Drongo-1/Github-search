@@ -2,12 +2,12 @@ import { Component, OnInit } from '@angular/core';
 import { GithubfetcherService } from "../services/githubfetcher.service"
 
 @Component({
-  selector: 'app-home',
-  templateUrl: './home.component.html',
-  styleUrls: ['./home.component.css'],
+  selector: 'app-landing',
+  templateUrl: './landing.component.html',
+  styleUrls: ['./landing.component.css'],
   providers: [GithubfetcherService]
 })
-export class HomeComponent {
+export class LandingComponent {
   user: any;
   username: string;
   repos: any[];

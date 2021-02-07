@@ -1,4 +1,4 @@
-export class Repos {
+export class Repository {
     constructor(public name:string,
         public html_url:any,
         public description:any,
