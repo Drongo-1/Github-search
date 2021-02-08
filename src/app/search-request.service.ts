@@ -5,6 +5,7 @@ import {User} from './user';
 import { HttpClient} from '@angular/common/http';
 
 
+
 @Injectable({
   providedIn: 'root'
 })
@@ -50,6 +51,7 @@ export class SearchRequestService {
     }
 
     gitUserRepos(searchMe) {
+        
         interface ApiResponse {
             name: string;
             description: string;
